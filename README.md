@@ -1,5 +1,6 @@
 Hi there! 
-👋 I'm Talya Brajtman a full stack developer,
+👋 I'm Talya Brajtman a software developer,
+currenttly working for applied meterials as a a software backend automation developer, using java, my work can be seen on bitbucket.
 thourough and efficient but excllent team worker (so claim my team members).
 I enjoy learning and solving problems using creative solutions that make me explore the web and discover new tchnologies.
 during my studies I loved the data structures course the most, and i still do. 
